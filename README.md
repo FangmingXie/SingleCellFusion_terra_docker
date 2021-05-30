@@ -7,8 +7,11 @@ This repo is to test a docker container wrapper for the package [SingleCellFusio
 
 
 ## Change log
+### 0.0.5 
+latest SingleCellFusion
+
 ### 0.0.4
-(future) fix remaining issues about file paths.
+fixed remaining issues about file paths (or not?)
 
 ### 0.0.3
 Fixed issue: COPY the terra branch (not the master branch) of SingleCellFusion. 

@@ -1,3 +1,4 @@
+# base
 # FROM us.gcr.io/broad-dsp-gcr-public/terra-jupyter-python:0.0.23
 FROM cumulusprod/pegasus-terra:1.3
 
